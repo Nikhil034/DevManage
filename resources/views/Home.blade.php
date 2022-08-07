@@ -199,7 +199,7 @@
                 </div>
                 <div class="detail-box">
                   <h6>
-                   Manage Salary
+                   Manage Task
                   </h6>
                 </div>
               </div>
