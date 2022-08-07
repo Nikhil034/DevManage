@@ -60,7 +60,7 @@
                   <a class="nav-link" href="/Project">Project</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="/ViewTask"> Task </a>
+                  <a class="nav-link" href="/TaskView"> Task </a>
                 </li>
                   <li class="nav-item">
                   <a class="nav-link" href="/Login">Login</a>
